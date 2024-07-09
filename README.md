@@ -1,4 +1,4 @@
-# Hi there👋, I'm Bruno
+# Hi there👋, I'm Bruno Henrique
 
 ## 💫 About Me:
 ⚡I am a creative and passionate developer who enjoys learning new technologies and creating innovative solutions.<br>🌱  Focusing on Fullstack Web Development<br>💼 Open for a new career opportunity<br>📫  Feel free to reach me out at bruno6244.bh@gmail.com
